@@ -5,9 +5,11 @@ body {
 
 hr {
   border-style: none;
-  width: 90%;
+  width: 7%;
   height: 2px;
-  background-color: #7579e7;
+  /*background-color: #7579e7;*/
+
+  border-top: 10px dotted red;
 }
 
 h3 {
