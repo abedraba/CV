@@ -5,8 +5,12 @@ body {
 
 hr {
   border-style: none;
-  width: 7%;
+
+  /*width: 7%;*/
+  
+  width: 85px;
   height: 2px;
+
   /*background-color: #7579e7;*/
 
   border-top: 10px dotted red;
