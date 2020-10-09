@@ -4,23 +4,21 @@ body {
 }
 
 hr {
+  /* النقاط الخمسة
   border-style: none;
-
-  /*width: 7%;*/
-  
   width: 85px;
   height: 2px;
-
-  /*background-color: #7579e7;*/
-
   border-top: 10px dotted red;
+  */
+  width: 89%;
+  height: 5px;
+  background-color: #7579e7;
 }
 
 h1 {
   color: #213e3b;
 }
- 
+
 h3 {
   color: #41aea9;
 }
-
